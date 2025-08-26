@@ -8,4 +8,4 @@ Built a machine learning model to classify player images using *image processing
 - NumPy
 - Matplotlib
 - OpenCV (cv2)
-- Scikit-learn
+
